@@ -7,7 +7,7 @@ body {
   margin: 24px auto;
   width: auto;
   padding: 24px;
-  background: rgb(55,55,58);
+  background: rgb(26, 26, 27);
   background: linear-gradient(90deg, rgba(55,55,58,1) 0%, rgba(84,84,84,1) 49%, rgba(93,94,95,1) 100%);
   display: grid;
   grid-template-columns: repeat(12, 1fr);
