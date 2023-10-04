@@ -39,7 +39,7 @@ border: 2px solid black;
 }
 
 nav{
-  max-height: 500px;
+  max-height: 550px;
   border: 2px solid black;
   grid-column: span 2;
   background-color: darkgrey;
